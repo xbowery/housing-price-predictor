@@ -4,5 +4,4 @@ pandas
 matplotlib
 seaborn
 sklearn
-mpl_toolkits
 scipy
