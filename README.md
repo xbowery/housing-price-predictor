@@ -2,6 +2,7 @@
 
 This project was done as part of SMU CS105 - Statistical Thinking for Data Science syllabus.
 
+To view the project live, please click on this link [here](https://share.streamlit.io/xbowery/housing-price-predictor/main/app.py).
 
 <b>Members</b>
 - [Cheah King Yeh](https://www.linkedin.com/in/king-yeh-cheah/)
